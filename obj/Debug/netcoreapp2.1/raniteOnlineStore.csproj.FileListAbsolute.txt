@@ -35,3 +35,8 @@ C:\Users\student\source\repos\graniteOnlineStore\raniteOnlineStore\obj\Debug\net
 C:\Users\student\source\repos\graniteOnlineStore\raniteOnlineStore\obj\Debug\netcoreapp2.1\Razor\Areas\customer\Views\Home\Privacy.g.cshtml.cs
 C:\Users\student\source\repos\graniteOnlineStore\raniteOnlineStore\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewImports.g.cshtml.cs
 C:\Users\student\source\repos\graniteOnlineStore\raniteOnlineStore\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewStart.g.cshtml.cs
+C:\Users\student\source\repos\graniteOnlineStore\raniteOnlineStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\student\source\repos\graniteOnlineStore\raniteOnlineStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+C:\Users\student\source\repos\graniteOnlineStore\raniteOnlineStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Index.g.cshtml.cs
+C:\Users\student\source\repos\graniteOnlineStore\raniteOnlineStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableButtonPartial.g.cshtml.cs
+C:\Users\student\source\repos\graniteOnlineStore\raniteOnlineStore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Create.g.cshtml.cs

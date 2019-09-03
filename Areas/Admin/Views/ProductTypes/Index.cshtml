@@ -1,0 +1,47 @@
+﻿@model IEnumerable<raniteOnlineStore.Models.ProductTypes>
+
+@{
+    ViewData["Title"] = "index";
+}
+
+<br/><br/>
+
+<div class="row">
+    <div class="col-6">
+        <h2>product Types</h2>
+    </div>
+    <div class="col-6 text-right">
+        <a asp-action="Create">new Product Type</a>
+    </div>
+</div>
+
+
+<h2>indix</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table  table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                <label text-right>operation</label> 
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td class="text-right">
+                <partial name="_TableButtonPartial" model="item.id"/> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
